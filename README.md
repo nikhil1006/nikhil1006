@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my IELTS prep and machine learning projects
+- 🔭 I’m currently working on my IELTS prep and a data analysis project on suicides in India From 2001 - 2012
 - 🌱 I’m currently learning deep learning libraries
 - 👯 I’m looking to collaborate on machine learning projects
 - 🤔 I’m looking for help with writing skills, machine learning projects.

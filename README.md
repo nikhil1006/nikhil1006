@@ -10,13 +10,6 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<head>
-    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-</head>
-
-<a>
-    <span class="iconify" data-icon="fa-brands:blogger-b" data-inline="false"></span>
-</a>
 <!--
 <a href="https://www.instagram.com/samal_chirag/">
   <img align="left" alt="Chirag's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
